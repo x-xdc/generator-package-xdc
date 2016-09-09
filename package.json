@@ -1,0 +1,31 @@
+{
+  "name": "generator-package-xdc",
+  "version": "0.1.1",
+  "description": "xdc generator package",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/x-xdc/generator-package-xdc.git"
+  },
+  "keywords": [
+    "xdc",
+    "generator"
+  ],
+  "author": "qingwei-li <qingwei.li@ele.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/x-xdc/generator-package-xdc/issues"
+  },
+  "homepage": "https://github.com/x-xdc/generator-package-xdc#readme",
+  "dependencies": {
+    "gulp": "~3.8.6",
+    "gulp-template": "~0.1.1",
+    "gulp-rename": "~1.2.0",
+    "gulp-install": "~0.2.0",
+    "gulp-conflict": "~0.2.0",
+    "inquirer": "~0.5.1"
+  }
+}
